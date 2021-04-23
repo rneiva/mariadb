@@ -28,9 +28,9 @@ mkdir -p /home/bkp-folder
 2. Change the default variables:
 
 ```
--backup_root = /home/backups (root directory for all backups)
--verbose = true (true or false to enable verbose mode)
--keep = 7 (number of old backups to keep)
+-backup_root=/home/backups (root directory for all backups)
+-verbose=true (true or false to enable verbose mode)
+-keep=7 (number of old backups to keep)
 ```
 
 3. Be happy! 😊
