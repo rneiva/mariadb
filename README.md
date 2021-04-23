@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://mariadb.com/" target="blank"><img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-focal-logo-Untitled-1.jpg" width="320" alt="Ubuntu Logo" /></a>
+  <a href="https://mariadb.com/" target="blank"><img src="https://mariadb.com/kb/static/images/logo-2018-black.95f5978ae14d.png" width="320" alt="MariaDB Logo" /></a>
 </p>
 
 This script is to manage backup for MariaDB and keeping old backups.
