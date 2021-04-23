@@ -1,7 +1,7 @@
 # This should help you get Sendmail installed with basic configuration on Ubuntu.
 
 <p align="center">
-  <a href="https://ubuntu.com/" target="blank"><img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-focal-logo-Untitled-1.jpg" width="320" alt="MariaDB Logo" /></a>
+  <a href="https://ubuntu.com/" target="blank"><img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-focal-logo-Untitled-1.jpg" width="320" alt="Ubuntu Logo" /></a>
 </p>
 
 
