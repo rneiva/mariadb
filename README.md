@@ -1,5 +1,5 @@
 # MariaDB - Backup
-> This script was created by @Raul Neiva - raulneivaweb@gmail.com.
+> This script was created by ![@Raul Neiva](raulneivaweb@gmail.com) - Powered by ![@Devvos TI](https://devvos.com.br).
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
