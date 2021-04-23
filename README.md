@@ -1,13 +1,19 @@
 # MariaDB - Backup
 This script is to manage backup for MariaDB keeping old backups.
 
+![](mariadb-logo.png)
 
-- [https://mariadb.com/kb/en/] (https://mariadb.com/kb/en/)
+## Installation
+
+```
+su root
+mkdir -p /home/bkp-folder
+```
+
 
 ## Requirements
 
 ```
-- Root Account
 - MariaDB 10.4 or latest;
 ```
 
@@ -23,3 +29,6 @@ This script is to manage backup for MariaDB keeping old backups.
 ```
 
 3. Be happy! 😊
+
+## References
+- [MariaDB Knowledge](https://mariadb.com/kb/en/)
