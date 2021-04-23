@@ -1,13 +1,16 @@
 # MariaDB - Backup
-> This script was created by @Raul Neiva - raulneivaweb@gmail.com.
+> This script was created by [Raul Neiva](raulneivaweb@gmail.com) - Powered by [Devvos TI](https://devvos.com.br).
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-This script is to manage backup for MariaDB and keeping old backups.
 
-![](mariadb-logo.png)
+<p align="center">
+  <a href="https://mariadb.com/" target="blank"><img src="https://mariadb.com/kb/static/images/logo-2018-black.95f5978ae14d.png" width="320" alt="MariaDB Logo" /></a>
+</p>
+
+This script is to manage backup for MariaDB and keeping old backups.
 
 ## Installation
 
@@ -16,6 +19,8 @@ su root
 git clone https://github.com/rneiva/mariadb.git
 mkdir -p /home/bkp-folder
 ```
+
+*Note: If you will use the script [mariadb-backup-mail.sh](mariadb-backup-mail.sh) with sendmail option - You will need to install and configure the *SendMail*.
 
 ## Requirements
 
@@ -38,6 +43,10 @@ mkdir -p /home/bkp-folder
 
 ## References
 - [MariaDB Knowledge](https://mariadb.com/kb/en/)
+
+## License
+
+This project is [MIT licensed](LICENSE).
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
