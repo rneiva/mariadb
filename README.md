@@ -30,5 +30,14 @@ mkdir -p /home/bkp-folder
 
 3. Be happy! 😊
 
+## Meta
+
+Raul Neiva – [@rneiva](https://twitter.com/rneiva) – raulneivaweb@gmail.com
+
+Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
+
+[https://github.com/rneiva/mariadb](https://github.com/rneiva/)
+
+
 ## References
 - [MariaDB Knowledge](https://mariadb.com/kb/en/)
