@@ -20,7 +20,7 @@ git clone https://github.com/rneiva/mariadb.git
 mkdir -p /home/bkp-folder
 ```
 
-*Note:* If you will use the script [/scripts/mariadb-backup-mail.sh](mariadb-backup-mail.sh) with sendmail option - You will need to install and configure the [SendMail](install-sendmail.md).
+*Note:* If you will use the script [mariadb-backup-mail.sh](/scripts/mariadb-backup-mail.sh) with sendmail option - You will need to install and configure the [SendMail](install-sendmail.md).
 
 ## Requirements
 
