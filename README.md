@@ -13,6 +13,7 @@ This script is to manage backup for MariaDB and keeping old backups.
 
 ```
 su root
+git clone https://github.com/rneiva/mariadb.git
 mkdir -p /home/bkp-folder
 ```
 
