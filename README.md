@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
->This script is to manage backup for MariaDB keeping old backups.
+This script is to manage backup for MariaDB and keeping old backups.
 
 ![](mariadb-logo.png)
 
