@@ -1,8 +1,8 @@
-# mariadb
+# MariaDB - Backup
 This script is to manage backup for MariaDB keeping old backups.
 
- 
-- [https://mariadb.com/kb/en/] (#MariaDB Knowledge Base)
+
+- [https://mariadb.com/kb/en/] (https://mariadb.com/kb/en/)
 
 ## Requirements
 
