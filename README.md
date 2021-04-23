@@ -7,7 +7,10 @@
 
 This script is to manage backup for MariaDB and keeping old backups.
 
-![](mariadb-logo.png)
+
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://mariadb.com/" width="320" alt="MariaDB Logo" /></a>
+</p>
 
 ## Installation
 
@@ -38,6 +41,10 @@ mkdir -p /home/bkp-folder
 
 ## References
 - [MariaDB Knowledge](https://mariadb.com/kb/en/)
+
+## License
+
+Nest is [MIT licensed](LICENSE).
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
