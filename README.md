@@ -1,5 +1,9 @@
 # MariaDB - Backup
-This script is to manage backup for MariaDB keeping old backups.
+> This script was created by @Raul Neiva - raulneivaweb@gmail.com.
+
+[![Build Status][travis-image]][travis-url]
+
+>This script is to manage backup for MariaDB keeping old backups.
 
 ![](mariadb-logo.png)
 
@@ -9,7 +13,6 @@ This script is to manage backup for MariaDB keeping old backups.
 su root
 mkdir -p /home/bkp-folder
 ```
-
 
 ## Requirements
 
@@ -30,14 +33,8 @@ mkdir -p /home/bkp-folder
 
 3. Be happy! 😊
 
-## Meta
-
-Raul Neiva – [@rneiva](https://twitter.com/rneiva) – raulneivaweb@gmail.com
-
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
-
-[https://github.com/rneiva/mariadb](https://github.com/rneiva/)
-
-
 ## References
 - [MariaDB Knowledge](https://mariadb.com/kb/en/)
+
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
